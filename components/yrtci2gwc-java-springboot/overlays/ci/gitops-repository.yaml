@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yrtci2gwc-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yrtci2gwc-java-springboot-gitops
